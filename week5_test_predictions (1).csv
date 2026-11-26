@@ -1,0 +1,15 @@
+municipality,province,deaths_2025,is_city,high_2025,target_death_2026,pred_lr_baseline,prob_lr_baseline,pred_rf_baseline,prob_rf_baseline,pred_rf_tuned,prob_rf_tuned
+Lipa,Batangas,2,1,1,0,1,0.501,0,0.335,0,0.481
+San Narciso,Quezon,0,0,0,1,1,0.67,1,1.0,1,0.857
+Tanay,Rizal,0,0,0,1,1,0.802,1,1.0,1,0.903
+Tanza,Cavite,2,1,1,1,0,0.38,1,0.599,0,0.414
+Pagbilao,Quezon,1,0,0,0,0,0.46,0,0.249,0,0.364
+Sta. Cruz,Laguna,1,0,0,0,0,0.415,0,0.057,0,0.349
+San Jose,Batangas,1,0,0,0,1,0.519,1,0.675,0,0.497
+San Mateo,Rizal,1,0,0,1,1,0.63,1,0.504,1,0.505
+Jala Jala,Rizal,0,0,0,1,1,0.802,1,1.0,1,0.903
+Lian,Batangas,0,0,0,1,1,0.72,1,0.958,1,0.816
+Antipolo City,Rizal,3,1,1,0,0,0.399,1,0.693,0,0.496
+Lopez,Quezon,0,0,0,1,1,0.67,1,1.0,1,0.857
+San Pedro,Laguna,1,1,0,0,0,0.483,1,0.622,0,0.448
+Bacoor City,Cavite,1,1,0,1,0,0.464,0,0.359,0,0.418
